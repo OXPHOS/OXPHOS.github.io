@@ -36,7 +36,7 @@ title: Pan Deng
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /img/cppcon/krobelus.jpg
 
 # --- Background colour/image options --- #
 
